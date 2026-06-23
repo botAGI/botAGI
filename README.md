@@ -31,6 +31,6 @@ including the parts AI can't reason about (driver regressions, hardware memory
 behavior, network topology).
 
 ## Links
-- Portfolio: https://agmind.ai · https://prem.agmind.dev
+- Portfolio: https://agmind.ai · https://agmind.dev
 - Hugging Face: https://huggingface.co/AGmind
 - Telegram: [@Agmind](https://t.me/Agmind)
