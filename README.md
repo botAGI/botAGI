@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/botagi-llmops-hero.gif" alt="botAGI — LLMOps / AI Platform Engineer · self-hosted LLM/RAG · serving · vector search · observability" width="100%">
+</p>
+
 # botAGI — LLMOps / AI Platform Engineer
 
 I build self-hosted, private LLM/RAG platforms and the tooling around them:
